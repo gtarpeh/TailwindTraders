@@ -19,3 +19,4 @@ steps:
   displayName: 'Run a multi-line script'
 
 - task: PublishBuildArtifacts@1
+  displayName: 'Publish artifacts: drop'
